@@ -1,0 +1,57 @@
+#intro{
+     color: cornsilk;
+     background-color: blue;
+     border: 5px solid black;
+     border-radius: 5px;
+     text-align : center;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#heading{
+     text-align : center;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-weight: 800;
+}
+.base{
+     color: white;
+     background-color: rgb(112, 203, 255);
+     border: 5px solid blue;
+     border-radius: 5px;
+     margin: 20px 5px;
+     padding: 10px;
+     }
+.featured{
+     color: white;
+     background-color: purple;
+     border: 5px solid black;
+     border-radius: 5px;
+     margin: 20px 5px;
+     padding: 10px;
+     }
+ .carryover{
+     color: white;
+     background-color: gray;
+     border: 5px solid black;
+     border-radius: 5px;
+     margin: 20px 5px;
+     padding: 10px; 
+     }
+.legend{
+     color: black;
+     background-color: goldenrod;
+     border: 5px solid black;
+     border-radius: 5px;
+     margin: 20px 5px;
+     padding: 10px;
+    }
+.iconic{
+     color: white;
+     background-color: rgb(250, 50, 100);
+     border: 5px solid rgb(241, 21, 57) ;
+     border-radius: 5px;
+     padding: 10px;
+    }
+div p{
+     text-align: justify;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-weight: 00;
+    }
